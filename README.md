@@ -25,25 +25,25 @@ For the **Actions Codelab**, please sign up for a [Google Cloud Platform](https:
 ## [February Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/258496541/)
 Tuesday, February 12, 2019 @ 5:00 PM to 8:00 PM
 
-[Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) Codelab
+- [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) Codelab
 
-[Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) Codelab
+- [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) Codelab
 
 ## [March Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/259298163/)
 Tuesday, March 12, 2019 @ 5:00 PM to 8:00 PM
 
-[MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter)
+- [MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter) Codelab
 
-[MDC-102 Flutter: Material Structure and Layout (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter)
+- [MDC-102 Flutter: Material Structure and Layout (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter) Codelab
 
-[MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter)
+- [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter) Codelab
 
-[MDC-104 Flutter: Material Advanced Components (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter)
+- [MDC-104 Flutter: Material Advanced Components (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter) Codelab
 
 ## [April Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/259873529/)
 Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
 
-### Getting Started with Flutter - Creating your First Flutter Application
+#### Getting Started with Flutter - Creating your First Flutter Application
 
 - First App in Flutter 
 - **Flutter Widgets**: Text, Centerm Material, MaterialApp, Scaffold, AppBar
