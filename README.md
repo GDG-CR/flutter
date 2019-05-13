@@ -1,6 +1,8 @@
 # Flutter Monthly Meetup - Google Developer Group of the Capital Region
 [Flutter Monthly Meetup - Google Developer Group of the Capital Region](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region)
 
+Learn to develop mobile apps for Android and iOS using Flutter.
+
 ## Environment setup
 
 The event will be hands-on, so make sure to bring your laptop and set up your environment in advance and be ready to code.
