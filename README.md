@@ -47,11 +47,15 @@ Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
 
 - First App in Flutter 
 - **Flutter Widgets**: Text, Centerm Material, MaterialApp, Scaffold, AppBar
+- [Code Snippets](https://github.com/lindakovacs/Flutter-Monthly-Meetup/tree/april-flutter-meetup)
+
 
 ## [May Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/260974726/)
 Tuesday, May 14, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button
+
+
 
 
 ## [Photos](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/photos/)
