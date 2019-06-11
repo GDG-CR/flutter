@@ -89,3 +89,15 @@ class MyFlutterApp extends StatelessWidget {
    );
  }
 }
+
+//=====================================================
+//Lesson 6, 7, 8, 9, 10 - Container Widget
+import 'package:flutter/material.dart';
+import './app_screens/home.dart';
+
+void main() {
+ runApp(MaterialApp(
+   title: "Exploring UI widgets",
+   home: Home(),
+ ));
+}
