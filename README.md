@@ -1,6 +1,8 @@
 # Flutter Monthly Meetup - Google Developer Group of the Capital Region
 [Flutter Monthly Meetup - Google Developer Group of the Capital Region](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region)
 
+## [Photos](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/photos/)
+
 Learn to develop mobile apps for Android and iOS using Flutter.
 
 ## Environment setup
@@ -45,7 +47,7 @@ Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
 
 #### Getting Started with Flutter - Creating your First Flutter Application
 
-- First App in Flutter 
+- First App in Flutter
 - **Flutter Widgets**: Text, Center, Material, MaterialApp, Scaffold, AppBar
 - [Code Snippets](https://github.com/lindakovacs/Flutter-Monthly-Meetup/tree/april-flutter-meetup)
 
@@ -59,7 +61,10 @@ Tuesday, June 11, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button
 
-## [Photos](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/photos/)
+## [July Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/262546563/)
+Tuesday, July 23, 2019 @ 5:00 PM to 8:00 PM
+
+- **Flutter Widgets**: ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button, Build a Flutter App
 
 
 
