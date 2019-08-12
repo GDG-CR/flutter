@@ -224,3 +224,273 @@ Widget getListView() {
 
  return listView;
 }
+
+//=====================================================
+//Lesson 13 - Floating Action Button and Snack Bar
+import 'package:flutter/material.dart';
+import './app_screens/home.dart';
+
+void main() {
+ runApp(MaterialApp(
+
+   title: "Exploring UI widgets",
+
+   home: Scaffold(
+     appBar: AppBar(title: Text("Long List"),),
+     body: getListView(),
+     floatingActionButton: FloatingActionButton(
+       onPressed: () {
+         debugPrint("FAB clicked");
+       },
+       child: Icon(Icons.add),
+       tooltip: 'Add One More Item',
+     ),
+   ),
+
+ ));
+}
+
+void showSnackBar(BuildContext context, String item) {
+ var snackBar = SnackBar(
+   content: Text("You just tapped $item"),
+   action: SnackBarAction(
+       label: "UNDO",
+       onPressed: () {
+         debugPrint('Performing dummy UNDO operation');
+       }
+   ),
+ );
+
+ Scaffold.of(context).showSnackBar(snackBar);
+}
+
+List<String> getListElements() {
+
+ var items = List<String>.generate(1000, (counter) => "Item $counter");
+ return items;
+}
+
+Widget getListView() {
+
+ var listItems = getListElements();
+
+ var listView = ListView.builder(
+     itemBuilder: (context, index) {
+
+       return ListTile(
+         leading: Icon(Icons.arrow_right),
+         title: Text(listItems[index]),
+         onTap: () {
+           showSnackBar(context, listItems[index]);
+         },
+       );
+     }
+ );
+
+ return listView;
+}
+
+//=====================================================
+//Lesson 14 - Stateful Widget Demo Example
+import 'package:flutter/material.dart';
+
+void main() {
+
+ runApp(
+     MaterialApp(
+       title: "Sateful App Example",
+       home: FavoriteCity(),
+     )
+ );
+}
+
+class FavoriteCity extends StatefulWidget {
+
+ @override
+ State<StatefulWidget> createState() {
+   return _FavoriteCityState();
+ }
+}
+
+class _FavoriteCityState extends State<FavoriteCity> {
+
+ String nameCity = "";
+
+ @override
+ Widget build(BuildContext context) {
+
+   debugPrint("Favorite City widget is created");
+
+   return Scaffold(
+     appBar: AppBar(
+       title: Text("Stateful App Example"),
+     ),
+     body: Container(
+       margin: EdgeInsets.all(20.0),
+       child: Column(
+         children: <Widget>[
+           TextField(
+             onSubmitted: (String userInput) {
+               setState(() {
+                 debugPrint("set State is called, this tells framework to redraw the FavCity widget");
+                 nameCity = userInput;
+               });
+             },
+           ),
+           Padding(
+               padding: EdgeInsets.all(30.0),
+               child: Text(
+                 "Your bext city is $nameCity",
+                 style: TextStyle(fontSize: 20.0),
+               ))
+         ],
+       ),
+     ),
+   );
+ }
+}
+
+//=====================================================
+//Lesson 15 - DropdownButton and DropdownMenuItem
+import 'package:flutter/material.dart';
+
+void main() {
+
+ runApp(
+     MaterialApp(
+       title: "Sateful App Example",
+       home: FavoriteCity(),
+     )
+ );
+}
+
+class FavoriteCity extends StatefulWidget {
+
+ @override
+ State<StatefulWidget> createState() {
+   return _FavoriteCityState();
+ }
+}
+
+class _FavoriteCityState extends State<FavoriteCity> {
+
+ String nameCity = "";
+ var _currencies = ['Rupees', 'Dollars', 'Pounds', 'Others'];
+ var _currentItemSelected = 'Dollars';
+
+ @override
+ Widget build(BuildContext context) {
+
+   debugPrint("Favorite City widget is created");
+
+   return Scaffold(
+     appBar: AppBar(
+       title: Text("Stateful App Example"),
+     ),
+     body: Container(
+       margin: EdgeInsets.all(20.0),
+       child: Column(
+         children: <Widget>[
+           TextField(
+             onSubmitted: (String userInput) {
+               setState(() {
+                 debugPrint("set State is called, this tells framwork to redraw the FavCity widget");
+                 nameCity = userInput;
+               });
+             },
+           ),
+           DropdownButton<String>(
+
+             items: _currencies.map((String dropDownStringItem) {
+               return DropdownMenuItem<String>(
+                 value: dropDownStringItem,
+                 child: Text(dropDownStringItem),
+               );
+             }).toList(),
+
+             onChanged: (String newValueSelected) {
+               // Your code to execute, when a menu item is selected from drop down
+               _onDropDownItemSelected(newValueSelected);
+             },
+
+             value: _currentItemSelected,
+
+           ),
+           Padding(
+               padding: EdgeInsets.all(30.0),
+               child: Text(
+                 "Your best city is $nameCity",
+                 style: TextStyle(fontSize: 20.0),
+               ))
+         ],
+       ),
+     ),
+   );
+ }
+
+ void _onDropDownItemSelected(String newValueSelected) {
+   setState(() {
+     this._currentItemSelected = newValueSelected;
+   });
+ }
+}
+
+//=====================================================
+// ============ TO BE DONE ==========================
+//Lesson 15 - Creating UI of Simple Interest Calculator
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MaterialApp(
+    title: "Simple Interest Calculator App",
+    home: SIForm(),
+  ));
+}
+
+class SIForm extends StatefulWidget {
+  @override
+  _SIFormState createState() => _SIFormState();
+}
+
+class _SIFormState extends State<SIForm> {
+  //var _currencies = ['Dollars', 'Pounds', 'Sterling', 'Other'];
+  final _minimumPadding = 5.0;
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Simple Interest Calculator App'),
+      ),
+      body: Container(
+        margin: EdgeInsets.all(_minimumPadding * 2),
+        child: Column(
+          children: <Widget>[
+            getImageAsset(),
+
+        TextField(
+          keyboardType: TextInputType.number,
+              decoration: InputDecoration(
+                labelText: "Principal",
+                hintText: "Enter Principal es. 1200"
+              ),
+            ),
+
+            TextField(
+              decoration: InputDecoration(
+                  labelText: "Rate of Interest",
+                  hintText: "Enter Principal es. 1200"
+              ),
+            ),
+
+          ],
+        ),
+      )
+    );
+  }
+
+  Widget getImageAsset() {
+    AssetImage assetImage = AssetImage('images/money.png');
+    Image image = Image(image: assetImage, width: 125.0, height: 125.0,);
+    return Container(child: image, margin: EdgeInsets.all(_minimumPadding * 10),);
+  }
+}
