@@ -71,4 +71,7 @@ Tuesday, August 13, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Build a Flutter App
 
+## [September Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264293781/)
+Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
 
+- **Build a fully functional Flutter App**
