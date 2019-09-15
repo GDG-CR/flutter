@@ -75,3 +75,9 @@ Tuesday, August 13, 2019 @ 5:00 PM to 8:00 PM
 Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
 
 - **Build a fully functional Flutter App**
+- Validation Reference Links: [Video](https://youtu.be/ut_zXt2MZhU) [GitHub](https://github.com/bizz84/input_validation_demo_flutter)
+
+## [October Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
+Tuesday, October 8, 2019 @ 5:00 PM to 8:00 PM
+
+- **Build a fully functional Flutter App**
