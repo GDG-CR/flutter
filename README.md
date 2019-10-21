@@ -51,25 +51,44 @@ Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
 - **Flutter Widgets**: Text, Center, Material, MaterialApp, Scaffold, AppBar
 - [Code Snippets](https://github.com/lindakovacs/Flutter-Monthly-Meetup/tree/april-flutter-meetup)
 
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
 ## [May Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/260974726/)
 Tuesday, May 14, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
 
 ## [June Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/261462728/)
 Tuesday, June 11, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button
 
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
 ## [July Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/262546563/)
 Tuesday, July 23, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button, Build a Flutter App
 
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
 ## [August Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/263810614/)
 Tuesday, August 13, 2019 @ 5:00 PM to 8:00 PM
 
 - **Flutter Widgets**: Build a Flutter App
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
 
 ## [September Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264293781/)
 Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
@@ -77,7 +96,21 @@ Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
 - **Build a fully functional Flutter App**
 - Validation Reference Links: [Video](https://youtu.be/ut_zXt2MZhU) [GitHub](https://github.com/bizz84/input_validation_demo_flutter)
 
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
 ## [October Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
 Tuesday, October 8, 2019 @ 5:00 PM to 8:00 PM
+
+- **Build a fully functional Flutter App**
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+## [November Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
+Tuesday, November 12, 2019 @ 5:00 PM to 8:00 PM
 
 - **Build a fully functional Flutter App**
