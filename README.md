@@ -24,23 +24,86 @@ For the **App Engine Codelab**, please sign up for a [Google Cloud Platform](htt
 
 For the **Actions Codelab**, please sign up for a [Google Cloud Platform](https://cloud.google.com/free/) free account, and have a browser ready to go.
 
-## [February Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/258496541/)
-Tuesday, February 12, 2019 @ 5:00 PM to 8:00 PM
 
-- [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) Codelab
 
-- [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) Codelab
+## [February Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/268176754/)
+Tuesday, February 11, 2020 @ 5:00 PM to 8:00 PM
 
-## [March Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/259298163/)
-Tuesday, March 12, 2019 @ 5:00 PM to 8:00 PM
+- [Starter code for the Mi Card Project from the Complete Flutter Development Bootcamp https://www.appbrewery.co/](https://github.com/londonappbrewery/mi_card_flutter)
 
-- [MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter) Codelab
+- [The completed code for the MiCard Project - The Complete Flutter Development Bootcamp https://www.appbrewery.co/](https://github.com/londonappbrewery/MiCard-Completed)
 
-- [MDC-102 Flutter: Material Structure and Layout (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter) Codelab
 
-- [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter) Codelab
+## [December Flutter Interact: Viewing Party Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/266259894/)
+Tuesday, December 17, 2019 @ 5:00 PM to 8:00 PM
 
-- [MDC-104 Flutter: Material Advanced Components (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter) Codelab
+- **Flutter Interact - Viewing Party**
+
+
+## [November Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
+Tuesday, November 12, 2019 @ 5:00 PM to 8:00 PM
+
+- **Build a fully functional Flutter App**
+
+## [October Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
+Tuesday, October 8, 2019 @ 5:00 PM to 8:00 PM
+
+- **Build a fully functional Flutter App**
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
+## [September Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264293781/)
+Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
+
+- **Build a fully functional Flutter App**
+- Validation Reference Links: [Video](https://youtu.be/ut_zXt2MZhU) [GitHub](https://github.com/bizz84/input_validation_demo_flutter)
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
+## [August Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/263810614/)
+Tuesday, August 13, 2019 @ 5:00 PM to 8:00 PM
+
+- **Flutter Widgets**: Build a Flutter App
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
+## [July Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/262546563/)
+Tuesday, July 23, 2019 @ 5:00 PM to 8:00 PM
+
+- **Flutter Widgets**: ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button, Build a Flutter App
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
+## [June Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/261462728/)
+Tuesday, June 11, 2019 @ 5:00 PM to 8:00 PM
+
+- **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button
+
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
+
+## [May Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/260974726/)
+Tuesday, May 14, 2019 @ 5:00 PM to 8:00 PM
+
+- **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button
+## Resources
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
+- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+
 
 ## [April Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/259873529/)
 Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
@@ -55,62 +118,37 @@ Tuesday, April 9, 2019 @ 5:00 PM to 8:00 PM
 - [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
 - [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
 
-## [May Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/260974726/)
-Tuesday, May 14, 2019 @ 5:00 PM to 8:00 PM
 
-- **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+## [March Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/259298163/)
+Tuesday, March 12, 2019 @ 5:00 PM to 8:00 PM
 
-## [June Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/261462728/)
-Tuesday, June 11, 2019 @ 5:00 PM to 8:00 PM
+- [MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter) Codelab
 
-- **Flutter Widgets**: Row and Column, Text, Scaffold, AppBar, Raised Button, Alert Dialog, Box Constraints, Container, Image, Size, Margin and Padding, ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button
+- [MDC-102 Flutter: Material Structure and Layout (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter) Codelab
 
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+- [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter) Codelab
 
-## [July Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/262546563/)
-Tuesday, July 23, 2019 @ 5:00 PM to 8:00 PM
-
-- **Flutter Widgets**: ListView, Floating Action Button, Stateful vs Stateless Widgets, Dropdown Button, Build a Flutter App
-
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
-
-## [August Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/263810614/)
-Tuesday, August 13, 2019 @ 5:00 PM to 8:00 PM
-
-- **Flutter Widgets**: Build a Flutter App
-
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
-
-## [September Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264293781/)
-Tuesday, September 10, 2019 @ 5:00 PM to 8:00 PM
-
-- **Build a fully functional Flutter App**
-- Validation Reference Links: [Video](https://youtu.be/ut_zXt2MZhU) [GitHub](https://github.com/bizz84/input_validation_demo_flutter)
-
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+- [MDC-104 Flutter: Material Advanced Components (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter) Codelab
 
 
-## [October Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
-Tuesday, October 8, 2019 @ 5:00 PM to 8:00 PM
+## [February Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/258496541/)
+Tuesday, February 12, 2019 @ 5:00 PM to 8:00 PM
 
-- **Build a fully functional Flutter App**
+- [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) Codelab
 
-## Resources
-- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/course/the-complete-flutter-app-development-course-for-android-ios/)
-- [Code Repo Flutter Course](https://github.com/smartherd/Flutter-Demos)
+- [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) Codelab
 
-## [November Monthly Flutter Meetup](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region/events/264795877/)
-Tuesday, November 12, 2019 @ 5:00 PM to 8:00 PM
 
-- **Build a fully functional Flutter App**
+
+
+
+
+
+
+
+
+
+
+
+
+
